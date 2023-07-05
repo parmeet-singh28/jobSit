@@ -1,174 +1,216 @@
 {
     "events_categories": [
         {
-            "id": "london",
-            "title": "Events in London",
-            "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem",
-            "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            "id": "Delhi",
+            "title": "Jobs in Delhi",
+            "description": " joining a job in Delhi provides a blend of professional opportunities, cultural experiences, and a high standard of living, making it an enticing destination for career-driven individuals seeking growth, exposure, and a fulfilling lifestyle",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81q6MDNcw3z5UvUtjQRN7e6FN7TvSQrBHwJGhQAuNoy-WvooDTlRRiQ-a4BO7_hTt2dipmBFSEncpSS0wrT8ox8M1aSsDg=w1920-h897"
+            
         },
         {
-            "id": "san-francisco",
-            "title": "Events in San Francisco",
-            "description": "corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate.",
-            "image": "https://images.unsplash.com/photo-1506146332389-18140dc7b2fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
+            "id": "Hyderabad",
+            "title": "Jobs in Hyderabad",
+            "description": "Joining a job in Hyderabad provides a combination of professional opportunities, cultural richness, affordable living, and a conducive environment for growth and development",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qROXC1HxR85ILd2SMbKkGPNLzbMsbPUpoxX7g2LmoXVgGUdhWM2ng2wJqohWGEDVjBBuQL3sJdPqn72Un83pcpd6-dGA=w1920-h522"
         },
         {
-            "id": "barcelona",
-            "title": "Events in Barcelona",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1579282240050-352db0a14c21?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=652&q=80"
+            "id": "Bengaluru",
+            "title": "Jobs in Bengaluru",
+            "description": "Joining a job in Bangalore provides access to a vibrant tech ecosystem, entrepreneurial opportunities, quality education, cultural richness, and a high standard of living",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p2XhPp-ziTQYXveOY5SxtNlVZUCm4DNCFnzOFk-IKkaRTfENVdXuCbhabc8EFr15VrbjYoCJZyFyybfJDMxX9yy6viwA=w1920-h522"
         }
     ],
     "allEvents": [
         {
-            "id": "london-comic-con-winter",
-            "title": "London Comic Con Winter",
-            "city": "London",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1608889476561-6242cfdbf622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
-            "emails_registered": []
+            "id": "amazon-page",
+            "title": "Amazon",
+            "city": "Delhi",
+             "description": "As a software engineer at Amazon, you would be part of a highly innovative and dynamic team responsible for developing cutting-edge software solutions to drive the company's diverse range of products and services. Your role would involve designing, coding, testing, and debugging software applications, as well as collaborating with cross-functional teams to deliver scalable and reliable software systems.",
+            "desc":"As an Amazon software engineer, you'll develop innovative software solutions, collaborate with cross-functional teams, and prioritize customer-centricity and quality",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p_APPIA8ie86TvtF0TTS3OzsCldiZ-QMF_MwgnwqqNIuUbuGebpyYId10_7_Domiwqop9UJCGkQWgD4K5dqI-IwOOpwQ=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "amazon@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "hyde-park-winter-wonderland",
-            "title": "Hyde Park Winter Wonderland",
-            "city": "London",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://hydeparkwinterwonderland.com/static/252d7fe6693a6a8b1887bd2049204103/039f7/2021-503x503-3.webp",
-            "emails_registered": []
+            "id": "google-page",
+            "title": "Google",
+            "city": "Delhi",
+             "description": "As a software engineer at Google, you would be part of a highly skilled team focused on developing cutting-edge software solutions across a wide range of products and services. Your role would involve designing, coding, testing, and debugging software applications, collaborating with cross-functional teams, and staying up-to-date with the latest industry trends and technologies. You would work in an agile development environment, ensuring high-quality code and contributing to the continuous improvement of software development processes, all while making a significant impact on the technology landscape.",
+            "desc": "Google software engineers create cutting-edge software solutions, driving innovation across diverse products and services while staying agile and ahead in the tech industry",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pJO4gfpeClNWG9_mrxqSNMt9QDYsQwJQtoNRD-lPhXPTyXPSRQKILKdqFhQuoPn2LHItbqUP_KJTELfmfqh5OEcB-Eeg=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "google@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "new-years-eve-in-london-2023",
-            "title": "New Years Eve in London 2023 ",
-            "city": "London",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1521478413868-1bbd982fa4a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": []
+            "id": "flipkart-page",
+            "title": "Flipkart",
+            "city": "Delhi",
+            "description": "Flipkart software engineers are instrumental in developing and implementing innovative software solutions across a wide array of products and services. They contribute to the technological advancement of the company by leveraging their expertise in coding, testing, and debugging. With a focus on delivering seamless user experiences, they collaborate with cross-functional teams to ensure the highest quality standards and efficient software development processes. These engineers play a crucial role in driving innovation, scalability, and reliability within Flipkart's ecosystem, making a significant impact on the e-commerce landscape in India and beyond",
+            "desc":"Flipkart software engineers drive innovation by developing innovative software solutions for diverse products and services, delivering exceptional user experiences",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81ozHnJ0hTzbijwBcd9WkXPiBbWVcqJZb9i1zpx2y1-Pg9H1ymzU7UOvvZ1GAyqpMC8SShaXzKGU5mtKJyAuZBjpUz0iww=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "flipkart@gmail.com",
+            "contactPhone": "9234567912"
+        },
+        
+        {
+            "id": "phonpe-page",
+            "title": "PhonePe",
+            "city": "Delhi",
+            "description": "PhonePe software engineers are at the forefront of developing cutting-edge software solutions for the digital payments and financial technology space. They drive innovation by leveraging their expertise in coding, testing, and debugging to create seamless and secure user experiences. Collaborating with cross-functional teams, they ensure the highest quality standards in software development while staying agile in a fast-paced environment. PhonePe software engineers play a crucial role in shaping the future of digital payments, enabling convenient and secure transactions for millions of users and merchants",
+            "desc":"PhonePe software engineers innovate in digital payments, developing cutting-edge solutions for user convenience and security",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rCeT25_SDEOxVm74OJtAaMCNkbOt6M50jWHXzNUTECjd0V4Hvbd4iVfNmMAicrfIzHJXUaSUFjuMHL3gF8D2eMumoybg=w1920-h522",
+            "emails_registered": [
+                "monica@gmail.com"
+            ],
+            "contactEmail": "phonpe@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "'edtech-world-summit-2022",
-            "title": "EdTech World Summit 2022",
-            "city": "london",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "id": "paytm-page",
+            "title": "Paytm",
+            "city": "Delhi",
+            "description": "Paytm software engineers are at the forefront of developing innovative software solutions for the digital payment ecosystem. They leverage their expertise in coding, testing, and optimization to ensure seamless transactions, enhanced user experiences, and robust security measures. Collaborating with cross-functional teams, they drive technological advancements and contribute to the evolution of the financial technology landscape. With a focus on user convenience and reliability, Paytm software engineers play a crucial role in shaping the future of digital payments in India and beyond",
+            "desc":"Paytm software engineers innovate in digital payments, creating advanced solutions for seamless transactions and enhanced user experiences",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qmcb9TL7b8AecVpiU7CpRw4AjcHkp-ytk1UrMDZLpYXXuOzk_53KE5bkrVGWY2fWdXn9XgIBOD7LqHN3Ku40Hpadv2Mg=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "paytm@gmail.com",
+            "contactPhone": "9234567912"
+        },
+        {
+            "id": "phonpe-page",
+            "title": "PhonePe",
+            "city": "Hyderabad",
+            "description": "PhonePe software engineers are at the forefront of developing cutting-edge software solutions for the digital payments and financial technology space. They drive innovation by leveraging their expertise in coding, testing, and debugging to create seamless and secure user experiences. Collaborating with cross-functional teams, they ensure the highest quality standards in software development while staying agile in a fast-paced environment. PhonePe software engineers play a crucial role in shaping the future of digital payments, enabling convenient and secure transactions for millions of users and merchants",
+            "desc":"PhonePe software engineers innovate in digital payments, developing cutting-edge solutions for user convenience and security",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rCeT25_SDEOxVm74OJtAaMCNkbOt6M50jWHXzNUTECjd0V4Hvbd4iVfNmMAicrfIzHJXUaSUFjuMHL3gF8D2eMumoybg=w1920-h522",
+            "emails_registered": [
+                "monica@gmail.com"
+            ],
+            "contactEmail": "phonpe@gmail.com",
+            "contactPhone": "9234567912"
+        },
+        {
+            "id": "Tower-page",
+            "title": "Tower Research Capital",
+            "city": "Hyderabad",
+            "description": "Tower Research software engineers are instrumental in developing cutting-edge software solutions for the financial industry. They leverage their expertise in coding, data analysis, and optimization to build high-performance trading systems and algorithms. Collaborating with quantitative researchers and traders, they drive innovation and contribute to the company's success in the highly competitive financial market. Tower Research software engineers play a crucial role in designing and implementing sophisticated software solutions that enable efficient and accurate trading strategies, helping the company stay at the forefront of technology-driven finance",
+            "desc":"Tower Research software engineers innovate in finance, creating high-performance trading systems to stay at the forefront of the industry",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qwsgwG8FPWWLduPtw-8f8NmeIRnVLSBz68yUKbgxFSpy9p-YMXXUYbP9R6Idqxx9nDbwsF70xKXSTXjTCjBnAEE6ez1Q=w1920-h522",
             "emails_registered": [
                 "alicia@gmail.com",
                 "monica@gmail.com",
                 "pparmeet2003@gmail.com"
-            ]
+            ],
+            "contactEmail": "tower@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "sigala-at-electric-brixton",
-            "title": "Sigala at Electric Brixton",
-            "city": "london",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "monica@gmail.com"
-            ]
+            "id": "amazon-page",
+            "title": "Amazon",
+            "city": "Hyderabad",
+             "description": "As a software engineer at Amazon, you would be part of a highly innovative and dynamic team responsible for developing cutting-edge software solutions to drive the company's diverse range of products and services. Your role would involve designing, coding, testing, and debugging software applications, as well as collaborating with cross-functional teams to deliver scalable and reliable software systems.",
+            "desc":"As an Amazon software engineer, you'll develop innovative software solutions, collaborate with cross-functional teams, and prioritize customer-centricity and quality",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p_APPIA8ie86TvtF0TTS3OzsCldiZ-QMF_MwgnwqqNIuUbuGebpyYId10_7_Domiwqop9UJCGkQWgD4K5dqI-IwOOpwQ=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "amazon@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "kiss-haunted-house-party-2022",
-            "title": "KISS Haunted House Party 2022",
-            "city": "london",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://wembleypark.com/media/images/KISS-HHP-42-1440x810-Logos-Date-de.2e16d0ba.fill-496x279.jpg",
-            "emails_registered": []
+            "id": "flipkart-page",
+            "title": "Flipkart",
+            "city": "Hyderabad",
+            "description": "Flipkart software engineers are instrumental in developing and implementing innovative software solutions across a wide array of products and services. They contribute to the technological advancement of the company by leveraging their expertise in coding, testing, and debugging. With a focus on delivering seamless user experiences, they collaborate with cross-functional teams to ensure the highest quality standards and efficient software development processes. These engineers play a crucial role in driving innovation, scalability, and reliability within Flipkart's ecosystem, making a significant impact on the e-commerce landscape in India and beyond",
+            "desc":"Flipkart software engineers drive innovation by developing innovative software solutions for diverse products and services, delivering exceptional user experiences",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81ozHnJ0hTzbijwBcd9WkXPiBbWVcqJZb9i1zpx2y1-Pg9H1ymzU7UOvvZ1GAyqpMC8SShaXzKGU5mtKJyAuZBjpUz0iww=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "flipkart@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "sf-blockchain-week",
-            "title": "SF Blockchain Week",
-            "city": "san-francisco",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
-            "emails_registered": [
-                "",
-                "",
-                "",
-                "laura@gmail.com",
-                "laura@gmail.com",
-                "laura@gmail.com"
-            ]
+            "id": "paytm-page",
+            "title": "Paytm",
+            "city": "Hyderabad",
+            "description": "Paytm software engineers are at the forefront of developing innovative software solutions for the digital payment ecosystem. They leverage their expertise in coding, testing, and optimization to ensure seamless transactions, enhanced user experiences, and robust security measures. Collaborating with cross-functional teams, they drive technological advancements and contribute to the evolution of the financial technology landscape. With a focus on user convenience and reliability, Paytm software engineers play a crucial role in shaping the future of digital payments in India and beyond",
+            "desc":"Paytm software engineers innovate in digital payments, creating advanced solutions for seamless transactions and enhanced user experiences",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qmcb9TL7b8AecVpiU7CpRw4AjcHkp-ytk1UrMDZLpYXXuOzk_53KE5bkrVGWY2fWdXn9XgIBOD7LqHN3Ku40Hpadv2Mg=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "paytm@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "innovation-summit-san-francisco",
-            "title": "Innovation Summit San Francisco",
-            "city": "san-francisco",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
-            "emails_registered": []
+            "id": "flipkart-page",
+            "title": "Flipkart",
+            "city": "Bengaluru",
+            "description": "Flipkart software engineers are instrumental in developing and implementing innovative software solutions across a wide array of products and services. They contribute to the technological advancement of the company by leveraging their expertise in coding, testing, and debugging. With a focus on delivering seamless user experiences, they collaborate with cross-functional teams to ensure the highest quality standards and efficient software development processes. These engineers play a crucial role in driving innovation, scalability, and reliability within Flipkart's ecosystem, making a significant impact on the e-commerce landscape in India and beyond",
+            "desc":"Flipkart software engineers drive innovation by developing innovative software solutions for diverse products and services, delivering exceptional user experiences",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81ozHnJ0hTzbijwBcd9WkXPiBbWVcqJZb9i1zpx2y1-Pg9H1ymzU7UOvvZ1GAyqpMC8SShaXzKGU5mtKJyAuZBjpUz0iww=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "flipkart@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "fan-expo-san-francisco",
-            "title": "FAN EXPO San Francisco",
-            "city": "san-francisco",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
-            "emails_registered": []
+            "id": "google-page",
+            "title": "Google",
+            "city": "Bengaluru",
+             "description": "As a software engineer at Google, you would be part of a highly skilled team focused on developing cutting-edge software solutions across a wide range of products and services. Your role would involve designing, coding, testing, and debugging software applications, collaborating with cross-functional teams, and staying up-to-date with the latest industry trends and technologies. You would work in an agile development environment, ensuring high-quality code and contributing to the continuous improvement of software development processes, all while making a significant impact on the technology landscape.",
+            "desc": "Google software engineers create cutting-edge software solutions, driving innovation across diverse products and services while staying agile and ahead in the tech industry",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81pJO4gfpeClNWG9_mrxqSNMt9QDYsQwJQtoNRD-lPhXPTyXPSRQKILKdqFhQuoPn2LHItbqUP_KJTELfmfqh5OEcB-Eeg=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "google@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "san-francisco-opera---san-francisco-tickets",
-            "title": "San Francisco Opera - San Francisco Tickets",
-            "city": "san-francisco",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-            "emails_registered": []
-        },
-        {
-            "id": "concert-christian-löffler-+-detect-ensemble",
-            "title": "Concert Christian Löffler + Detect Ensemble",
-            "city": "barcelona",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "alicia@gmail.com",
-                "monica@gmail.com"
-            ]
-        },
-        {
-            "id": "the-halloween-house-party",
-            "title": "The Halloween House Party",
-            "city": "barcelona",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1587407627257-27b7127c868c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+            "id": "Tower-page",
+            "title": "Tower Research Capital",
+            "city": "Bengaluru+",
+            "description": "Tower Research software engineers are instrumental in developing cutting-edge software solutions for the financial industry. They leverage their expertise in coding, data analysis, and optimization to build high-performance trading systems and algorithms. Collaborating with quantitative researchers and traders, they drive innovation and contribute to the company's success in the highly competitive financial market. Tower Research software engineers play a crucial role in designing and implementing sophisticated software solutions that enable efficient and accurate trading strategies, helping the company stay at the forefront of technology-driven finance",
+            "desc":"Tower Research software engineers innovate in finance, creating high-performance trading systems to stay at the forefront of the industry",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qwsgwG8FPWWLduPtw-8f8NmeIRnVLSBz68yUKbgxFSpy9p-YMXXUYbP9R6Idqxx9nDbwsF70xKXSTXjTCjBnAEE6ez1Q=w1920-h522",
             "emails_registered": [
                 "alicia@gmail.com",
                 "monica@gmail.com",
-                "david@yahoo.com",
-                "claire@ss.com"
-            ]
+                "pparmeet2003@gmail.com"
+            ],
+            "contactEmail": "tower@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "international-conference-on-industrial-design",
-            "title": "International Conference on Industrial Design",
-            "city": "barcelona",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "id": "phonpe-page",
+            "title": "PhonePe",
+            "city": "Bengaluru",
+            "description": "PhonePe software engineers are at the forefront of developing cutting-edge software solutions for the digital payments and financial technology space. They drive innovation by leveraging their expertise in coding, testing, and debugging to create seamless and secure user experiences. Collaborating with cross-functional teams, they ensure the highest quality standards in software development while staying agile in a fast-paced environment. PhonePe software engineers play a crucial role in shaping the future of digital payments, enabling convenient and secure transactions for millions of users and merchants",
+            "desc":"PhonePe software engineers innovate in digital payments, developing cutting-edge solutions for user convenience and security",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81rCeT25_SDEOxVm74OJtAaMCNkbOt6M50jWHXzNUTECjd0V4Hvbd4iVfNmMAicrfIzHJXUaSUFjuMHL3gF8D2eMumoybg=w1920-h522",
             "emails_registered": [
-                "alicia@gmail.com",
                 "monica@gmail.com"
-            ]
+            ],
+            "contactEmail": "phonpe@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "world-congress-2022---barcelona",
-            "title": "World Congress 2022 - Barcelona",
-            "city": "barcelona",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "alicia@gmail.com",
-                "monica@gmail.com"
-            ]
+            "id": "paytm-page",
+            "title": "Paytm",
+            "city": "Bengaluru",
+            "description": "Paytm software engineers are at the forefront of developing innovative software solutions for the digital payment ecosystem. They leverage their expertise in coding, testing, and optimization to ensure seamless transactions, enhanced user experiences, and robust security measures. Collaborating with cross-functional teams, they drive technological advancements and contribute to the evolution of the financial technology landscape. With a focus on user convenience and reliability, Paytm software engineers play a crucial role in shaping the future of digital payments in India and beyond",
+            "desc":"Paytm software engineers innovate in digital payments, creating advanced solutions for seamless transactions and enhanced user experiences",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81qmcb9TL7b8AecVpiU7CpRw4AjcHkp-ytk1UrMDZLpYXXuOzk_53KE5bkrVGWY2fWdXn9XgIBOD7LqHN3Ku40Hpadv2Mg=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "paytm@gmail.com",
+            "contactPhone": "9234567912"
         },
         {
-            "id": "riskminds-international",
-            "title": "RiskMinds International",
-            "city": "barcelona",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "emails_registered": [
-                "alicia@gmail.com",
-                "monica@gmail.com"
-            ]
+            "id": "amazon-page",
+            "title": "Amazon",
+            "city": "Bengaluru",
+             "description": "As a software engineer at Amazon, you would be part of a highly innovative and dynamic team responsible for developing cutting-edge software solutions to drive the company's diverse range of products and services. Your role would involve designing, coding, testing, and debugging software applications, as well as collaborating with cross-functional teams to deliver scalable and reliable software systems.",
+            "desc":"As an Amazon software engineer, you'll develop innovative software solutions, collaborate with cross-functional teams, and prioritize customer-centricity and quality",
+            "image": "https://lh3.googleusercontent.com/u/1/drive-viewer/AFGJ81p_APPIA8ie86TvtF0TTS3OzsCldiZ-QMF_MwgnwqqNIuUbuGebpyYId10_7_Domiwqop9UJCGkQWgD4K5dqI-IwOOpwQ=w1920-h522",
+            "emails_registered": [],
+            "contactEmail": "amazon@gmail.com",
+            "contactPhone": "9234567912"
         }
     ]
 }
